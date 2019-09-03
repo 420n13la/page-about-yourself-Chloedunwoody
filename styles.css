@@ -17,13 +17,14 @@ h1 {
 h2 {
   color: blue;
   text-align: left;
-  border: 5px solidblue
+  border: 5px solidblue;
 }
 
 p {
   font-size: 20px;
-  border: 5px solidblue
+  border: 5px solidblue;
 }
+
 img {
   height: 55px;
   width: 55px;
